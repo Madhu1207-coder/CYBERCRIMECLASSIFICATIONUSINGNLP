@@ -15,3 +15,6 @@ CyberCrimeClassificationUsingNLP has been created by Madhumitha and dhiksha.
 
 # License
 GNU General Public License v3.0.
+
+![cyber crime classification using nlp ](https://github.com/user-attachments/assets/5f8a5e2a-389a-4355-8ab1-3b67e45439a8)
+
