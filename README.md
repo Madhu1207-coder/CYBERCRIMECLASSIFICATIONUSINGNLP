@@ -124,7 +124,7 @@ python main.py
 
 | 📝 Text Input         | 📊 Ontology Inference View |
 | --------------------- | -------------------------- |
-| *(Insert screenshot)* | *(Insert screenshot)*      |
+| *(https://github.com/Madhu1207-coder/CYBERCRIMECLASSIFICATIONUSINGNLP/blob/main/cybercrime%20text%20input%20.jpg)* | *(Insert screenshot)*      |
 
 ---
 
