@@ -120,7 +120,7 @@ python main.py
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 | 📝 Text Input         | 📊 Ontology Inference View |
 | --------------------- | -------------------------- |
