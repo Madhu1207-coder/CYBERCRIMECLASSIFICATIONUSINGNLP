@@ -8,7 +8,10 @@
   <img src="https://img.shields.io/github/license/Madhu1207-coder/CYBERCRIMECLASSIFICATIONUSINGNLP?style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" width="600" alt="Cybersecurity GIF"/>
+</p>
+
 
 ## 🚀 Project Overview
 
