@@ -167,3 +167,6 @@ This project is licensed under the **GNU General Public License v3.0** – see t
 
 > Made with ❤️ by **Madhumitha B** & **Dhiksha**
 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/15895598779823.5ee3cd3210c15.gif" width="220"/>
+</p>
