@@ -131,12 +131,28 @@ python main.py
 
 ---
 
-## 👨‍💻 Development Team
+## 👥 Contributors
 
-* 👩‍💻 **Madhumitha B**
-* 👩‍💻 **Dhiksha**
+<table align="center">
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/Madhu1207-coder">
+        <img src="https://avatars.githubusercontent.com/u/112749715?v=4" width="100" height="100" style="border-radius:50%;" alt="Madhumitha B"/><br />
+        <sub><b>Madhumitha B</b></sub><br />
+        <sup>🛠️ Project Lead</sup>
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/DHIKSHAMP">
+        <img src="https://avatars.githubusercontent.com/u/161393418?v=4" width="100" height="100" style="border-radius:50%;" alt="Dhiksha M P"/><br />
+        <sub><b>Dhiksha M P</b></sub><br />
+        <sup>🔍 NLP & OWL Ontology Contributor</sup>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+
 
 ## 📬 Connect With Me
 
