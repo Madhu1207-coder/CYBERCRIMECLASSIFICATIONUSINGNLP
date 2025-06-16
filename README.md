@@ -183,6 +183,19 @@ This project is licensed under the **GNU General Public License v3.0** – see t
 
 > Made with ❤️ by **Madhumitha B** & **Dhiksha**
 
+---
+
+### ⚠️ Usage Restriction Notice
+
+This project is developed by **Madhumitha B** for academic and educational demonstration only.
+
+❌ Do NOT copy, reuse, or submit any part of this repository as your own.  
+🚫 Reproduction, redistribution, or modification without permission is prohibited.  
+🛡️ Protected by copyright law.
+
+📬 For permission requests, contact: madhumithab1207@gmail.com
+
+
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/15895598779823.5ee3cd3210c15.gif" width="220"/>
 </p>
